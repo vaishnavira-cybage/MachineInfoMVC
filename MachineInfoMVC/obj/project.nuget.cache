@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwAS/oE82CH5/ne4+Qgvm7Z1JMGuqpuiwH0vzD2sQqSF1aQkNwSLuhCc4YBDViYD+kxl2rz/F7cKYZjfHZyA/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaishnavira\\source\\repos\\AzureDevopsProject\\MachineInfoMVC\\MachineInfoMVC\\MachineInfoMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaishnavira\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
