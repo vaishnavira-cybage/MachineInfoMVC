@@ -1,0 +1,8 @@
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\MachineInfoMVC.exe
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\MachineInfoMVC.dll
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\MachineInfoMVC.deps.json
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\MachineInfoMVC.runtimeconfig.json
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\MachineInfoMVC.pdb
+C:\Users\vaishnavira\source\repos\AzureDevopsProject\MachineInfoMVC\MachineInfoMVC\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

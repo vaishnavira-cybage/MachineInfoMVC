@@ -16,7 +16,7 @@ namespace MachineInfoMVC.Controllers
         public async Task<IActionResult> Index()
         {
 
-            var response = await _httpClient.GetAsync("https://localhost:7126/api/MachineInfo");
+            var response = await _httpClient.GetAsync("http://localhost:8082/api/MachineInfo");
             var resultString = await response.Content.ReadAsStringAsync();
             dynamic result = JsonConvert.DeserializeObject(resultString);
             return View(result);
